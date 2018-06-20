@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "138594497867",
+    "firebase_url": "https://deneme-24a38.firebaseio.com",
+    "project_id": "deneme-24a38",
+    "storage_bucket": "deneme-24a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138594497867:android:0ae63c7e6711affa",
+        "android_client_info": {
+          "package_name": "flutter.firestoreimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138594497867-cp6h2klbfs6chdubeorfe558trs6q8o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flutter.firestoreimage",
+            "certificate_hash": "64e40ee5be0fd9f805ac57511c9a0b6006b72f61"
+          }
+        },
+        {
+          "client_id": "138594497867-k7u3hrrk2du9h3ue5lkl031111p3ajuf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "138594497867-k7u3hrrk2du9h3ue5lkl031111p3ajuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmNYXPAaghLIuZWXQgSE3hD0eUwXrdrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138594497867-k7u3hrrk2du9h3ue5lkl031111p3ajuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
